@@ -17,7 +17,7 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> |
+| **언어** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> |
 | **Computer Vision & AI** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/> |
 | **Healthcare & MLOps** | <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/MLflow-017CEE?style=for-the-badge&logo=mlflow&logoColor=white"/> |
 | **Data & Tools** | <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> |
@@ -42,12 +42,12 @@
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=ocean_dark&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-languages/?username=your-username&layout=compact&theme=ocean_dark&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pinggu925&show_icons=true&theme=ocean_dark&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-languages/?username=pinggu925&layout=compact&theme=ocean_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=ocean_dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pinggu925&theme=ocean_dark&hide_border=true" />
 </p>
 
 <br>
@@ -69,5 +69,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=0284c7&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=pinggu925&color=0284c7&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>

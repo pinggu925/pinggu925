@@ -1,73 +1,73 @@
-# 🩺 안녕하세요! Computer Vision & 헬스케어 AI 엔지니어입니다.
+<div align="center">
 
-> **"안에서의 열정과 밖에서의 멘토링이 만나는 줄탁동시(啐啄同時)의 마음으로, 사람의 삶을 이롭게 하는 AI를 만듭니다."**
+# Hi, I'm haemgu3114
 
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=650&lines=Learning+Python+%26+Machine+Learning;Exploring+Data+Analysis+Step+by+Step;Building+Projects+and+Learning+Every+Day)](https://git.io/typing-svg)
 
-## 🐣 About Me
+데이터를 직접 다뤄보고, 코드를 실행하면서 하나씩 배우고 있습니다.  
+Python 기초부터 데이터 분석, 머신러닝, 간단한 웹 개발까지 기록하고 있습니다.
 
-* 🎓 **우리인재개발원 AI Campus** | CV 기반 헬스케어 AI 머신러닝 엔지니어 과정 수료/수강 중
-* 🤝 **(주)이콜트리 및 협약기업 연계** 실전 헬스케어 PoC 프로젝트 경험 보유
-* 💡 **관심 분야:** Computer Vision (YOLO, SegNet), 의료 영상 정제(DICOM), OCR 서류 자동화, MLOps 구축
-* ✉️ **Contact:** `Pinggu925@gmail.com`
-
-<br>
-
-## 🛠 Tech Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **언어** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> |
-| **Computer Vision & AI** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/> |
-| **Healthcare & MLOps** | <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/MLflow-017CEE?style=for-the-badge&logo=mlflow&logoColor=white"/> |
-| **Data & Tools** | <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> |
-
-<br>
-
-## 🚀 Projects
-
-### 🏥 [프로젝트명 1] (주)이콜트리 연계 헬스케어 PoC 프로젝트
-> **의료 영상 기반 생체 이상탐지 및 DICOM 비정형 데이터 분석 모델**
-* **주요 기능:** DICOM 영상 전처리 파이프라인, 객체 검출(YOLO) 및 백엔드 FastAPI 서비스화
-* **사용 기술:** PyTorch, OpenCV, FastAPI, Docker
-* **역할:** 비전 데이터 전처리 및 모델 학습, API 배포 파이프라인 구축
-
-### 📄 [프로젝트명 2] 비정형 의료 서류 OCR 자동 인식 시스템
-> **진단서 및 처방전 자동 인식 헬스케어 데이터 추출 파이프라인**
-* **주요 기능:** 이미지 문서 바운딩 박스 검출, Text OCR 인식 및 데이터베이스 자동 적재
-* **사용 기술:** Python, OpenCV, PyTorch OCR, MySQL
-
-<br>
-
-## 📈 GitHub Stats & Activity
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=ocean_dark&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-languages/?username=your-username&layout=compact&theme=ocean_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=ocean_dark&hide_border=true" />
-</p>
-
-<br>
-
-## 📫 Contact & Connect
-
-<p align="left">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://your-velog-or-blog-url.com" target="_blank">
-    <img src="https://img.shields.io/badge/Tech_Blog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=0284c7&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</p>
+## About Me
+
+- Python을 중심으로 프로그래밍을 학습하고 있습니다.
+- Jupyter Notebook으로 데이터 분석과 머신러닝 실습을 정리합니다.
+- 데이터 전처리, 시각화, 모델 학습 과정을 직접 구현하며 공부하고 있습니다.
+- Flask를 활용한 간단한 웹 애플리케이션도 실습하고 있습니다.
+
+## Tech Stack
+
+<div align="center">
+
+### Language & Data
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+
+### Machine Learning & Visualization
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge">
+
+### Web & Tools
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+</div>
+
+## Study & Projects
+
+### Python / Data / Machine Learning
+
+[![Pyhon_workspace](https://img.shields.io/badge/Pyhon__workspace-View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/haemgu3114/Pyhon_workspace)
+
+Python 기초 문법부터 pandas DataFrame, 데이터 전처리, Matplotlib·Seaborn 시각화, 머신러닝 기초까지 학습 내용을 기록하는 저장소입니다.
+
+### Git & GitHub Practice
+
+Git과 GitHub의 기본 흐름을 익히면서 commit, push, repository 관리 등을 연습하고 있습니다.
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=haemgu3114&show_icons=true&hide_border=true&theme=transparent" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haemgu3114&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Keep learning, keep building.
+
+</div>

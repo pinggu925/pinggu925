@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hi, I'm haemgu3114
+# Hi, I'm Pinggu925
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=650&lines=Learning+Python+%26+Machine+Learning;Exploring+Data+Analysis+Step+by+Step;Building+Projects+and+Learning+Every+Day)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=650&lines=Learning+Python+%26+Machine+Learning;Exploring+Deep+Learning+%26+Data+Analysis;Building+Projects+and+Learning+Every+Day)](https://git.io/typing-svg)
 
 데이터를 직접 다뤄보고, 코드를 실행하면서 하나씩 배우고 있습니다.  
-Python 기초부터 데이터 분석, 머신러닝, 간단한 웹 개발까지 기록하고 있습니다.
+Python 기초부터 데이터 분석, 머신러닝·딥러닝, 간단한 웹 개발까지 기록하고 있습니다.
 
 </div>
 
@@ -13,9 +13,9 @@ Python 기초부터 데이터 분석, 머신러닝, 간단한 웹 개발까지 �
 
 ## About Me
 
-- Python을 중심으로 프로그래밍을 학습하고 있습니다.
-- Jupyter Notebook으로 데이터 분석과 머신러닝 실습을 정리합니다.
-- 데이터 전처리, 시각화, 모델 학습 과정을 직접 구현하며 공부하고 있습니다.
+- Python을 중심으로 프로그래밍과 AI 기술을 학습하고 있습니다.
+- Jupyter Notebook으로 데이터 분석, 머신러닝 및 딥러닝 모델 실습을 정리합니다.
+- 데이터 전처리, 시각화, 신경망(CNN·RNN) 구조 구현 및 모델 학습 과정을 직접 공부하고 있습니다.
 - Flask를 활용한 간단한 웹 애플리케이션도 실습하고 있습니다.
 
 ## Tech Stack
@@ -29,9 +29,11 @@ Python 기초부터 데이터 분석, 머신러닝, 간단한 웹 개발까지 �
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 
-### Machine Learning & Visualization
+### Machine Learning, Deep Learning & Visualization
 
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge">
 
@@ -45,11 +47,11 @@ Python 기초부터 데이터 분석, 머신러닝, 간단한 웹 개발까지 �
 
 ## Study & Projects
 
-### Python / Data / Machine Learning
+### Python / Data / Machine Learning & Deep Learning
 
-[![Pyhon_workspace](https://img.shields.io/badge/Pyhon__workspace-View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/haemgu3114/Pyhon_workspace)
+[![Pyhon_workspace](https://img.shields.io/badge/Pyhon__workspace-View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/pinggu925/Pyhon_workspace)
 
-Python 기초 문법부터 pandas DataFrame, 데이터 전처리, Matplotlib·Seaborn 시각화, 머신러닝 기초까지 학습 내용을 기록하는 저장소입니다.
+Python 기초 문법부터 pandas DataFrame, 데이터 전처리, Matplotlib·Seaborn 시각화, 머신러닝 및 딥러닝(PyTorch/TensorFlow, CNN, RNN) 기초 학습 내용을 기록하는 저장소입니다.
 
 ### Git & GitHub Practice
 

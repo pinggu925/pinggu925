@@ -1,4 +1,4 @@
-# 🩺 안녕하세요! Computer Vision & 헬스케어 AI 엔지니어 [조강희/Pinggu925]입니다.
+# 🩺 안녕하세요! Computer Vision & 헬스케어 AI 엔지니어 [이름/닉네임]입니다.
 
 > **"안에서의 열정과 밖에서의 멘토링이 만나는 줄탁동시(啐啄同時)의 마음으로, 사람의 삶을 이롭게 하는 AI를 만듭니다."**
 
@@ -9,7 +9,7 @@
 * 🎓 **우리인재개발원 AI Campus** | CV 기반 헬스케어 AI 머신러닝 엔지니어 과정 수료/수강 중
 * 🤝 **(주)이콜트리 및 협약기업 연계** 실전 헬스케어 PoC 프로젝트 경험 보유
 * 💡 **관심 분야:** Computer Vision (YOLO, SegNet), 의료 영상 정제(DICOM), OCR 서류 자동화, MLOps 구축
-* ✉️ **Contact:** `pinggu925@gmail.com`
+* ✉️ **Contact:** `your-email@example.com`
 
 <br>
 
@@ -17,7 +17,7 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **언어** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> |
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> |
 | **Computer Vision & AI** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/> |
 | **Healthcare & MLOps** | <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/MLflow-017CEE?style=for-the-badge&logo=mlflow&logoColor=white"/> |
 | **Data & Tools** | <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> |
@@ -42,12 +42,12 @@
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pinggu925&show_icons=true&theme=ocean_dark&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-languages/?username=pinggu925&layout=compact&theme=ocean_dark&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=ocean_dark&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-languages/?username=your-username&layout=compact&theme=ocean_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pinggu925&theme=ocean_dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=ocean_dark&hide_border=true" />
 </p>
 
 <br>
@@ -69,5 +69,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pinggu925&color=0284c7&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=your-username&color=0284c7&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>

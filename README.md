@@ -9,7 +9,7 @@
 * 🎓 **우리인재개발원 AI Campus** | CV 기반 헬스케어 AI 머신러닝 엔지니어 과정 수료/수강 중
 * 🤝 **(주)이콜트리 및 협약기업 연계** 실전 헬스케어 PoC 프로젝트 경험 보유
 * 💡 **관심 분야:** Computer Vision (YOLO, SegNet), 의료 영상 정제(DICOM), OCR 서류 자동화, MLOps 구축
-* ✉️ **Contact:** `your-email@example.com`
+* ✉️ **Contact:** `pinggu925@gmail.com`
 
 <br>
 

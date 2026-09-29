@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/75e297da-010d-4391-bdd6-efa3d802d309" width="100%" alt="Header Banner" />
+  <img src="https://github.com/user-attachments/assets/390835cf-b1a4-45ce-8d94-f2195b6c9f6b" width="100%" alt="Header Banner" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7931E&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+my+Profile!;Data+Analysis+%26+Machine+Learning" />
 </div>
 
